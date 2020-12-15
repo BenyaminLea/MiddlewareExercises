@@ -1,0 +1,37 @@
+{
+  "method": "POST",
+  "url": "/text",
+  "Duration": ""
+}{
+  "method": "GET",
+  "url": "/",
+  "Duration": ""
+}{
+  "method": "GET",
+  "url": "/favicon.ico",
+  "Duration": ""
+}{
+  "method": "POST",
+  "url": "/text",
+  "Duration": ""
+}{
+  "method": "POST",
+  "url": "/text",
+  "Duration": "0ms"
+}{
+  "method": "POST",
+  "url": "/text",
+  "Duration": "0ms"
+}{
+  "method": "GET",
+  "url": "/",
+  "Duration": "0ms"
+}{
+  "method": "POST",
+  "url": "/text",
+  "Duration": "0ms"
+}{
+  "method": "POST",
+  "url": "/text",
+  "Duration": "0ms"
+}
